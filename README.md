@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Chicago-Naperville-Elgin Metro Area, IL-IN, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `306474` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 619 records |
-| Free sample size | 61 records (9.85%) |
-| Last export | 2026-04-07T23:51:19.895666+00:00 |
+| Full dataset size | 516 records |
+| Free sample size | 51 records (9.88%) |
+| Last export | 2026-04-15T05:35:11.505954+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-chicago-naperville-elgin-metro-area-il-in-us-sample-306474/releases/download/sample-latest/beamstation_306474_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
