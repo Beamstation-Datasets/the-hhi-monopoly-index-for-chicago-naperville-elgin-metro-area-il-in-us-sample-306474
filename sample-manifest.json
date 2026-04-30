@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f2f3f3a-f329-4ffd-b0e0-778b147d1b0b",
+  "export_job_id": "926336ab-495d-4e04-a540-3d5468378720",
   "id_short": 306474,
-  "published_at": "2026-04-22T19:31:49Z",
+  "published_at": "2026-04-30T07:15:27Z",
   "repo_name": "the-hhi-monopoly-index-for-chicago-naperville-elgin-metro-area-il-in-us-sample-306474",
   "sample_asset_name": "beamstation_306474_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/306474/beamstation_306474_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "81109de441bb184bf85ddaf02206cefac4236097907313668747a3a51723d872",
-  "sample_size_bytes": 189630,
-  "total_records": 463
+  "sample_records": 44,
+  "sample_sha256": "d195531da23207073a61cdee48be92a38d1ad171376225697822dc6eeef92b15",
+  "sample_size_bytes": 178513,
+  "total_records": 442
 }
